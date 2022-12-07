@@ -1,0 +1,1 @@
+{"name": "opera_KOA", "atom_set": ["*", "C", "N", "O", "F", "S", "Cl", "Br", "I"], "unique_smiles": true, "natom_range": [2, 22], "has_salts": false, "n_datapoints": 269, "n_mols": 269, "target_columns": ["LogKOA"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

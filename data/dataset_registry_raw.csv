@@ -1,0 +1,78 @@
+name,status,shortname,assigned,reference ,filename,description ,task,num_tasks,measured_uncertainty,num_molecules,possible_bias,id_column,smiles_column,target_column(s),task_types,notes
+Test,needs to be processed,test,ben,fillme,test.csv,,,,,,,Compound ID,SMILES,logP,,
+FreeSolv,needs to be processed,freesolv,Gary,10.1007/s10822-014-9747-x,freesolv.csv,"Experimental and computed hydration free
+energies of small and neutral molecules. ",regression,1,no,0.643k,,N/A (rows),SMILES,experimental value (kcalmol),regression,"multi-fidelity measurements, computational and experimental properties"
+Olfaction Prediction Challenge,needs upload,olfaction,ben,https://doi.org/10.1186/s12868-016-0287-2,,"Olfactory perception of organic molecules 
+at different concentrations",regression,19,yes,0.5k,,,smiles,,,
+HOIP perovskites,punt,,riley,"
+https://doi.org/10.1038/sdata.2017.57",,"bandgaps for 193 HOIP perovskites computed
+at GGA level and ~hybrid level using HSE06
+functional",regression,2,no,0.192k,,,,"Needs parsing, Riley has this code",,"multi-fidelity measurements, strange featurization proceedure (composed of
+cations, anions, and organic part) "
+Delaney (ESOL),needs to be processed,delaney,Gary,"John S Delaney. Esol: estimating aqueous solubility
+ directly from molecular structure. Journal of chemical
+information and computer sciences, 44(3):1000–1005,
+2004
+https://doi.org/10.1021/ci034243x",delaney.csv,"Water solubility data(log solubility in mols per 
+litre) for common organic small molecules.",regression,1,no,1.128k,,Compound ID,SMILES,measured log(solubility:mol/L),regression,units of mol/L
+ClinTox,needs to be processed,clintox,Gary,"Zhenqin Wu, Bharath Ramsundar, Evan N Feinberg,
+Joseph Gomes, Caleb Geniesse, Aneesh S Pappu, Karl
+Leswing, and Vijay Pande. Moleculenet: a benchmark
+ for molecular machine learning. Chemical science,
+9(2):513–530, 2018.
+https://doi.org/10.1039/C7SC02664A",clintox.csv,"Drugs and drug candidates that made
+it to clinical trials and were either
+approved or failed",binary classification,2,no,1.478k,,N/A (rows),smiles,"FDA_APPROVED,CT_TOX","binary, binary",binary classification
+SIDER,needs to be processed,sider,Gary,"Sider side effect resource. http: // sideeffects. embl.
+de/ .",sider.csv,"Recorded adverse drug reactions
+of marketed drugs. ",binary classification,27,no,1.43k,marketed drugs,N/A (rows),smiles,"Hepatobiliary disorders,Metabolism and nutrition disorders,Product issues,Eye disorders,Investigations,Musculoskeletal and connective tissue disorders,Gastrointestinal disorders,Social circumstances,Immune system disorders,Reproductive system and breast disorders,""Neoplasms benign, malignant and unspecified (incl cysts and polyps)"",General disorders and administration site conditions,Endocrine disorders,Surgical and medical procedures,Vascular disorders,Blood and lymphatic system disorders,Skin and subcutaneous tissue disorders,""Congenital, familial and genetic disorders"",Infections and infestations,""Respiratory, thoracic and mediastinal disorders"",Psychiatric disorders,Renal and urinary disorders,""Pregnancy, puerperium and perinatal conditions"",Ear and labyrinth disorders,Cardiac disorders,Nervous system disorders,""Injury, poisoning and procedural complications""","binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary, binary",Series of classifications on marketed drugs (consider as multiclass?)
+HOPV,needs upload,hopv,riley,https://www.nature.com/articles/sdata201686,,MO energies and OPV bulk properties,regression,1-4,no,0.35k,,,,,,needs to be tidied up/parsed  - Riley has this in Gemini
+Bergstrom (MP),needs to be processed,bergstrom,Gary,"Bergstrom et al. Molecular Descriptors Influencing
+Melting Point and Their Role in Classification of Solid
+Drugs. J. Chem. Inf. Comput. Sci. 2003
+https://doi.org/10.1021/ci020280x",bergstrom.csv,"Solid drug-like compounds and their melting 
+points.",regression,1,,0.277k,,id,smiles,melting_point,regression,units of celcius
+MOLAN (MP),needs to be processed,molan,Gary,https://doi.org/10.26434/chemrxiv.9914378.v1,molan.csv,,regression,1,,,,N/A (rows),SMILES,Melting Point {measured},regression,
+Alkane BP,needs to be processed,alkane,Gary,"D. Cherqaoui and D. Villemin. Use of neural network to 
+determine the boiling point of alkanes. J. Chem. Soc. 
+Faraday Trans., 1994. 90(1):97-102.
+https://doi.org/10.1039/FT9949000097",alkane_bp.csv,Boiling point of alkanes,regression,1,no,0.150k,,id,smiles,boiling_point,regression,units of celcius
+Stahl Dataset,needs to be processed,stahl,Gary,"Detailed Analysis of Scoring Functions for Virtual 
+Screening. Stahl and Rarey. J. Med. Chem. 2001
+https://doi.org/10.1021/jm0003992",stahl.csv,"Classification of small molecules based on 
+ligand site docking compatibility",multi classification,7,,0.335k,,N/A (rows),SMILES,"cox2,estrogen,gelatinase,neuramidase,kinase,thrombin,none",multiclass,
+Joung Optical Dataset,needs to be processed,joung,Gary,"Experimental database of optical properties of organic 
+compounds. Joung et al. Sci Data. 2020
+https://doi.org/10.1038/s41597-020-00634-8",joung.csv,"Experimental optical data on set of 
+chromophores using different methods and 
+solvents",regression,8,no,7.015k,,N/A (rows),Chromophore,"Absorption max (nm),Emission max (nm),Lifetime (ns),Quantum yield,log(e/mol-1 dm3 cm-1),abs FWHM (cm-1),emi FWHM (cm-1),abs FWHM (nm),emi FWHM (nm),Molecular weight (g mol-1)",regression,Some data missing for molecules. Measurements made in different solvents
+BACE,needs to be processed,bace,Gary,MoleculeNet. https://doi.org/10.1039/C7SC02664A ,bace.csv,"Quantitative (IC50) and qualitative (binary 
+label) binding results for a set of inhibitors of 
+BACE",binary classification,1,no,1.5k,,CID,smiles,Class,binary,Also some regression tasks
+BBBP,needs to be processed,bbbp,Gary,"A Bayesian Approach to in Silico Blood-Brain Barrier 
+Penetration Modeling. ACS. 2012 
+dx.doi.org/10.1021/ci300124c ",bbbp.csv,"Binary labels of blood-brain barrier penetration
+(permeability).",binary classification,1,no,2.0k,,num,smiles,p_np,binary,
+Lipophilicity,needs to be processed,lipo,Gary,MoleculeNet. https://doi.org/10.1039/C7SC02664A ,lipo.csv,"Experimental results of octanol/water 
+distribution coefficient(logD at pH 7.4).",regression,1,no,4.2k,,CMPD_CHEMBLID,smiles,exp,regression,
+AqSolDB,needs to be processed,aqsoldb,ben,https://doi.org/10.1038/s41597-019-0151-1,AqSolDB.csv,,regression,1,yes,10k,,db_id,smiles,,,
+PhotoSwitch,needs to be processed,photoswtich,ben,10.26434/chemrxiv.12609899.v1,photoswitches.csv,,regression,4,,405,,,,,,
+Transition Wavelengths,needs to be processed,trainsition_wavelengths,ben,https://www.nature.com/articles/s41597-019-0306-0,transition_wavelengths_Beard.csv,,regression,1,,,,,,,,
+Atmospheric hydroxylation rate,needs to be processed,opera_AOH,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_AOH.csv,,regression,1,,692,,ChemID,SMILES,LogOH,regression,
+Bioconcentration factor,needs to be processed,opera_BCF,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_BCF.csv,,regression,1,,626,,ChemID,Canonical_QSARr,LogBCF,regression,
+Biodegradability half-life,needs to be processed,opera_BioHL,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_BioHL.csv,,regression,1,,150,,ChemID,SMILES,LogHalfLife,regression,
+Boiling point,needs to be processed,opera_BP,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_BP.csv,,regression,1,,5435,,ChemID,SMILES,BP,regression,
+Henry’s Law constant,needs to be processed,opera_HL,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_HL.csv,,regression,1,,591,,ChemID,SMILES,LogHL,regression,
+Fish biotransformation half-life,needs to be processed,opera_KM,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_KM.csv,,regression,1,,541,,ChemID,SMILES,LogKmHL,regression,
+Octanol–air partition coefficient,needs to be processed,opera_KOA,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_KOA.csv,,regression,1,,270,,ChemID,SMILES,LogKOA,regression,
+Soil adsorption coefficient,needs to be processed,opera_KOC,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_KOC.csv,,regression,1,,729,,ChemID,SMILES,LogKOC,regression,
+Octanol–water partition coefficient,needs to be processed,opera_LogP,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_LogP.csv,,regression,1,,14050,,ChemID,SMILES,LogP,regression,
+Melting point,needs to be processed,opera_MP,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_MP.csv,,regression,1,,8653,,ChemID,SMILES,MP,regression,
+Readily biodegradable,needs to be processed,opera_RBioDeg,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_RBioDeg.csv,,binary classification,1,,1608,,ChemID,SMILES,Ready_Biodeg,binary,
+Vapor pressure,needs to be processed,opera_VP,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_VP.csv,,regression,1,,2713,,ChemID,SMILES,LogVP,regression,
+Water solubility,needs to be processed,opera_WS,ben,https://doi.org/10.1186/s13321-018-0263-1,opera_WS.csv,,regression,1,,4224,,CAS,SMILES,LogMolar,regression,
+,,,,,,,,,,,,,,,,
+physiology/biophysics,,,,,,,,,,,,,,,,
+physical chemistry,,,,,,,,,,,,,,,,
+materials science,,,,,,,,,,,,,,,,
+quantum chemistry,,,,,,,,,,,,,,,,

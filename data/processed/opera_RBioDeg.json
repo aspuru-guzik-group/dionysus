@@ -1,0 +1,1 @@
+{"name": "opera_RBioDeg", "atom_set": ["*", "C", "N", "O", "F", "Na", "Si", "P", "S", "Cl", "Br", "I"], "unique_smiles": false, "natom_range": [2, 85], "has_salts": false, "n_datapoints": 1597, "n_mols": 1595, "target_columns": ["Ready_Biodeg"], "tasks": ["binary"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

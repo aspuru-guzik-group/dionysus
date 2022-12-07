@@ -1,0 +1,1 @@
+{"name": "opera_BCF", "atom_set": ["*", "C", "N", "O", "F", "Si", "P", "S", "Cl", "Br", "I"], "unique_smiles": false, "natom_range": [3, 39], "has_salts": false, "n_datapoints": 626, "n_mols": 625, "target_columns": ["LogBCF"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

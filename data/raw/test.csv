@@ -1,0 +1,107 @@
+Compound ID,logP,SMILES
+"1,1,1,2-Tetrachloroethane",-2.794,ClCC(Cl)(Cl)Cl
+"1,1,1-Trichloroethane",-2.232,CC(Cl)(Cl)Cl
+"1,1,2,2-Tetrachloroethane",-2.549,ClC(Cl)C(Cl)Cl
+"1,1,2-Trichloroethane",-1.961,ClCC(Cl)Cl
+"1,1,2-Trichlorotrifluoroethane",-3.077,FC(F)(Cl)C(F)(Cl)Cl
+"1,1-Dichloroethane",-1.576,CC(Cl)Cl
+"1,1-Dichloroethylene",-1.939,ClC(=C)Cl
+"1,1-Diethoxyethane ",-0.899,CCOC(C)OCC
+"1,2,3,4-Tetrachlorobenzene",-4.546,Clc1ccc(Cl)c(Cl)c1Cl
+"1,2,3,4-Tetrahydronapthalene",-3.447,C1CCc2ccccc2C1
+"1,2,3,5-Tetrachlorobenzene",-4.621,Clc1cc(Cl)c(Cl)c(Cl)c1
+"1,2,3-Trichlorobenzene",-4.008,Clc1cccc(Cl)c1Cl
+"1,2,3-Trimethylbenzene ",-3.312,Cc1cccc(C)c1C
+"1,2,4,5-Tetrabromobenzene",-6.001,Brc1cc(Br)c(Br)cc1Br
+"1,2,4,5-Tetrachlorobenzene",-4.621,Clc1cc(Cl)c(Cl)cc1Cl
+"1,2,4,5-Tetramethylbenzene",-3.664,Cc1cc(C)c(C)cc1C
+"1,2,4-tribromobenzene",-5.144,c1(Br)c(Br)cc(Br)cc1
+"1,2,4-Trichlorobenzene",-4.083,Clc1ccc(Cl)c(Cl)c1
+"1,2,4-Trimethylbenzene",-3.343,Cc1ccc(C)c(C)c1
+"1,2-Benzenediol",-1.635,Oc1ccccc1O
+"1,2-Dibromobenzene",-4.172,Brc1ccccc1Br
+"1,2-Dibromoethane",-2.102,BrCCBr
+"1,2-Dichlorobenzene",-3.482,Clc1ccccc1Cl
+"1,2-Dichloroethane",-1.374,ClCCCl
+"1,2-Dichloropropane",-1.794,CC(Cl)CCl
+"1,2-Dichlorotetrafluoroethane",-2.697,FC(F)(Cl)C(F)(F)Cl
+"1,2-Diethoxyethane ",-0.833,CCOCCOCC
+"1,2-Diethylbenzene",-3.601,CCc1ccccc1CC
+"1,2-Dinitrobenzene",-2.281,O=N(=O)c1ccccc1N(=O)=O
+"1,2-Propylene oxide",-0.358,CC1CO1
+"1,3,5-Tribromobenzene",-5.27,Brc1cc(Br)cc(Br)c1
+"1,3,5-Trichlorobenzene",-4.159,Clc1cc(Cl)cc(Cl)c1
+"1,3,5-Trimethylbenzene ",-3.375,Cc1cc(C)cc(C)c1
+"1,3,5-Trinitrobenzene",-2.324,O=N(=O)c1cc(cc(c1)N(=O)=O)N(=O)=O
+"1,3-Benzenediol",-1.59,Oc1cccc(O)c1
+"1,3-Butadiene",-1.376,C=CC=C
+"1,3-Dibromobenzene",-4.298,Brc1cccc(Br)c1
+"1,3-Dichlorobenzene",-3.558,Clc1cccc(Cl)c1
+"1,3-Dichloropropane",-1.618,ClCCCCl
+"1,3-diethylthiourea",-1.028,CCNC(=S)NCC
+"1,3-Difluorobenzene",-2.636,Fc1cccc(F)c1
+"1,3-Dimethylnaphthalene",-4.147,Cc1cc(C)c2ccccc2c1
+"1,3-Dinitrobenzene",-2.281,O=N(=O)c1cccc(c1)N(=O)=O
+"1,4-Benzenediol",-1.59,Oc1ccc(O)cc1
+"1,4-Cyclohexadiene",-1.842,C1C=CCC=C1
+"1,4-Dibromobenzene",-4.298,Brc1ccc(Br)cc1
+"1,4-Dichlorobenzene",-3.558,Clc1ccc(Cl)cc1
+"1,4-Diethylbenzene ",-3.633,CCc1ccc(CC)cc1
+"1,4-Difluorobenzene",-2.636,Fc1ccc(F)cc1
+"1,4-Dimethylnaphthalene ",-4.147,Cc1ccc(C)c2ccccc12
+"1,4-Dinitrobenzene",-2.281,O=N(=O)c1ccc(cc1)N(=O)=O
+"1,4-Pentadiene ",-1.758,C=CCC=C
+"1,5-Dimethlnapthalene",-4.147,Cc1cccc2c(C)cccc12
+"1,5-Hexadiene ",-2.112,C=CCCC=C
+"1,7-phenantroline",-2.994,c1cnc2c(c1)ccc3ncccc23
+"1,8-Cineole",-2.579,CC12CCC(CC1)C(C)(C)O2
+17a-Methyltestosterone,-4.073,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C
+1-aminoacridine,-3.542,Nc2cccc3nc1ccccc1cc23 
+1-Bromo-2-methylpropane,-2.288,CC(C)CBr
+1-Bromobutane,-2.303,CCCCBr
+1-Bromoheptane,-3.366,CCCCCCCBr
+1-Bromohexane,-3.012,CCCCCCBr
+1-Bromonapthalene,-4.434,Brc1cccc2ccccc12
+1-Bromooctane,-3.721,CCCCCCCCBr
+1-Bromopentane,-2.658,CCCCCBr
+1-Bromopropane,-1.949,CCCBr
+1-Butanol,-0.688,CCCCO
+1-Butene,-1.655,CCC=C
+1-Butyne,-1.092,CCC#C
+1-Chloro-2-bromoethane,-1.738,ClCCBr
+1-Chloro-2-methylpropane,-1.924,ClCC(C)C
+1-Chlorobutane,-1.94,CCCCCl
+1-Chloroheptane,-3.003,CCCCCCCCl
+1-Chlorohexane,-2.648,CCCCCCCl
+1-Chloronapthalene,-4.063,Clc1cccc2ccccc12
+1-Chloropentane,-2.294,CCCCCCl
+1-Chloropropane,-1.585,CCCCl
+1-Decanol,-2.814,CCCCCCCCCCO
+1-Decene,-3.781,CCCCCCCCC=C
+1-Dodecanol,-3.523,CCCCCCCCCCCCO
+1-Ethylnaphthalene ,-4.1,CCc1cccc2ccccc12
+1-Heptanol,-1.751,CCCCCCCO
+1-Heptene,-2.718,CCCCCC=C
+1-Heptyne,-2.155,CCCCCC#C
+1-Hexadecanol,-4.94,CCCCCCCCCCCCCCCCO
+1-Hexanol,-1.397,CCCCCCO
+1-Hexene,-2.364,CCCCC=C
+1-Hexene-3-ol,-1.199,CCCC(O)C=C
+1-Hexyne ,-1.801,CCCCC#C
+1-Iodobutane,-2.841,CCCCI
+1-Iodoheptane,-3.904,CCCCCCCI
+1-Iodonapthalene,-4.889,Ic1cccc2ccccc12
+1-Iodopropane,-2.486,CCCI
+1-Methylcyclohexene ,-2.574,CC1=CCCCC1
+1-Methylfluorene,-4.478,Cc1cccc2c1Cc3ccccc32
+1-Methylnaphthalene,-3.802,Cc1cccc2ccccc12
+1-Methylphenanthrene,-4.87,Cc1cccc2c1ccc3ccccc32
+1-methyluracil,-0.375,Cn1ccc(=O)[nH]c1=O
+1-Iodonapthalene,-4.889,Ic1cccc2ccccc12
+1-Iodopropane_dup,-2.486,CCCI
+1-Methylcyclohexene2_dup,-2.574,CC1=CCCCC1
+1-Methylfluorene_dup,-4.478,Cc1cccc2c1Cc3ccccc32
+1-Methylnaphthalene_dup,-3.802,Cc1cccc2ccccc12
+1-Methylphenanthrene_dup,-4.87,Cc1cccc2c1ccc3ccccc32
+"1-methyluracil, Saly_dup",-0.375,Cn1ccc(=O)[nH]c1=O
+1-methyluracil_salted,-0.375,Cn1ccc(=O)[nH]c1=O.F

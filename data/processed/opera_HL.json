@@ -1,0 +1,1 @@
+{"name": "opera_HL", "atom_set": ["*", "C", "N", "O", "F", "Si", "P", "S", "Cl", "Se", "Br", "I"], "unique_smiles": true, "natom_range": [2, 34], "has_salts": false, "n_datapoints": 591, "n_mols": 591, "target_columns": ["LogHL"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

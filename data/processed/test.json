@@ -1,0 +1,1 @@
+{"name": "test", "atom_set": ["*", "C", "N", "O", "F", "S", "Cl", "Br", "I"], "unique_smiles": false, "natom_range": [4, 22], "has_salts": false, "n_datapoints": 105, "n_mols": 98, "target_columns": ["logP"], "doi": "fillme", "smiles_columns": "isosmiles"}
