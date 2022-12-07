@@ -1,0 +1,1 @@
+{"name": "opera_KM", "atom_set": ["*", "H", "C", "N", "O", "F", "Si", "P", "S", "Cl", "Br", "I"], "unique_smiles": true, "natom_range": [3, 50], "has_salts": false, "n_datapoints": 541, "n_mols": 541, "target_columns": ["LogKmHL"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

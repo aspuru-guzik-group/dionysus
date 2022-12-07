@@ -1,0 +1,1 @@
+{"name": "opera_KOC", "atom_set": ["*", "C", "N", "O", "F", "Na", "Si", "P", "S", "Cl", "As", "Br", "I"], "unique_smiles": true, "natom_range": [2, 35], "has_salts": false, "n_datapoints": 715, "n_mols": 715, "target_columns": ["LogKOC"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

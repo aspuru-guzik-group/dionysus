@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="468.481641pt" height="87.536484pt" viewBox="0 0 468.481641 87.536484" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-07-06T21:08:21.739934</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 87.536484 
+L 468.481641 87.536484 
+L 468.481641 0 
+L 0 0 
+L 0 87.536484 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 66.84082 78.536484 
+L 401.64082 78.536484 
+L 401.64082 23.096484 
+L 66.84082 23.096484 
+L 66.84082 78.536484 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p32c10c6bc0)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAABXMAAADnCAYAAABc48XxAAAHSklEQVR4nO3YsRFBQQAAUVQiksmEiqANFehCM8xoSB2ngv+FZ2feq2Dj3Y4xxgb4S/v7a3YCsOJxOc1OABZc34fZCcCa8212AbDg+HnOTgBW7GYHAAAAAADwm5kLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABBg5gIAAAAABJi5AAAAAAABZi4AAAAAQICZCwAAAAAQYOYCAAAAAASYuQAAAAAAAWYuAAAAAECAmQsAAAAAEGDmAgAAAAAEmLkAAAAAAAFmLgAAAABAgJkLAAAAABDwBQMtC8UFi+m/AAAAAElFTkSuQmCC" id="image0a29b50705" transform="scale(1 -1)translate(0 -55.44)" x="66.84082" y="-23.096484" width="334.8" height="55.44"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 66.84082 78.536484 
+L 66.84082 23.096484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 401.64082 78.536484 
+L 401.64082 23.096484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 66.84082 78.536484 
+L 401.64082 78.536484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 66.84082 23.096484 
+L 401.64082 23.096484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="94.74082" y="52.722797" transform="rotate(-0, 94.74082, 52.722797)">0</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="94.74082" y="75.392243" transform="rotate(-0, 94.74082, 75.392243)">(64)</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="150.54082" y="52.722797" transform="rotate(-0, 150.54082, 52.722797)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="150.54082" y="75.392243" transform="rotate(-0, 150.54082, 75.392243)">(138)</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="206.34082" y="52.722797" transform="rotate(-0, 206.34082, 52.722797)">2</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="206.34082" y="75.392243" transform="rotate(-0, 206.34082, 75.392243)">(1012)</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="262.14082" y="52.722797" transform="rotate(-0, 262.14082, 52.722797)">3</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="262.14082" y="75.392243" transform="rotate(-0, 262.14082, 75.392243)">(61)</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="317.94082" y="52.722797" transform="rotate(-0, 317.94082, 52.722797)">4</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="317.94082" y="75.392243" transform="rotate(-0, 317.94082, 75.392243)">(40)</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="373.74082" y="52.722797" transform="rotate(-0, 373.74082, 52.722797)">5</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="373.74082" y="75.392243" transform="rotate(-0, 373.74082, 75.392243)">(40)</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #262626; font: 22.5px 'sans-serif'; text-anchor: middle" x="234.24082" y="17.096484" transform="rotate(-0, 234.24082, 17.096484)">Cluster colormap index (count) for clintox</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p32c10c6bc0">
+   <rect x="66.84082" y="23.096484" width="334.8" height="55.44"/>
+  </clipPath>
+ </defs>
+</svg>

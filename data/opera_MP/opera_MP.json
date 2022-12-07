@@ -1,0 +1,1 @@
+{"name": "opera_MP", "atom_set": ["*", "B", "C", "N", "O", "F", "Si", "P", "S", "Cl", "As", "Se", "Br", "I"], "unique_smiles": true, "natom_range": [2, 85], "has_salts": false, "n_datapoints": 8497, "n_mols": 8497, "target_columns": ["MP"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

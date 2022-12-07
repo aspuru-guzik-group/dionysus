@@ -1,0 +1,1 @@
+{"name": "lipo", "atom_set": ["*", "B", "C", "N", "O", "F", "Si", "P", "S", "Cl", "Se", "Br", "I"], "unique_smiles": true, "natom_range": [7, 115], "has_salts": false, "n_datapoints": 4199, "n_mols": 4199, "target_columns": ["exp"], "tasks": ["regression"], "doi": "MoleculeNet. https://doi.org/10.1039/C7SC02664A ", "smiles_column": "isosmiles", "task": null}
