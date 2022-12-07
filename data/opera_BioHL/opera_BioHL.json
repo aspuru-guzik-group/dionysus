@@ -1,0 +1,1 @@
+{"name": "opera_BioHL", "atom_set": ["*", "C", "S"], "unique_smiles": true, "natom_range": [5, 34], "has_salts": false, "n_datapoints": 150, "n_mols": 150, "target_columns": ["LogHalfLife"], "tasks": ["regression"], "doi": "https://doi.org/10.1186/s13321-018-0263-1", "smiles_column": "isosmiles", "task": null}

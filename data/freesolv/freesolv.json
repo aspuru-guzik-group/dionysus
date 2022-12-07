@@ -1,0 +1,1 @@
+{"name": "freesolv", "atom_set": ["*", "C", "N", "O", "F", "P", "S", "Cl", "Br", "I"], "unique_smiles": false, "natom_range": [2, 24], "has_salts": false, "n_datapoints": 639, "n_mols": 637, "target_columns": ["experimental value (kcalmol)"], "tasks": ["regression"], "doi": "10.1007/s10822-014-9747-x", "smiles_column": "isosmiles", "task": null}

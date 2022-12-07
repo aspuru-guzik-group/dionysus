@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Leave out generalization splits due to number of files
+data/*/generalization/*npz
+

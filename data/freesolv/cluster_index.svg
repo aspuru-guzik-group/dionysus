@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="483.556641pt" height="87.536484pt" viewBox="0 0 483.556641 87.536484" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-07-21T04:49:12.601926</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 87.536484 
+L 483.556641 87.536484 
+L 483.556641 0 
+L -0 0 
+L -0 87.536484 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 102.27832 78.536484 
+L 381.27832 78.536484 
+L 381.27832 23.096484 
+L 102.27832 23.096484 
+L 102.27832 78.536484 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#pad360150c1)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAABIsAAADnCAYAAACe9tZcAAAGBUlEQVR4nO3YMRECMQAAQUAJFQooEQE2XsG7QA0zuAvddaTNF7sKrr7zGGOcgEO67p/VCcDE+3lfnQD88freVicAM49tdQEwcVkdAAAAAMBxmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEDMIgAAAABiFgEAAAAQswgAAACAmEUAAAAAxCwCAAAAIGYRAAAAADGLAAAAAIhZBAAAAEB+TKcJ/5+E8wQAAAAASUVORK5CYII=" id="image3ceeb4ac2d" transform="scale(1 -1)translate(0 -55.44)" x="102.27832" y="-23.096484" width="279.12" height="55.44"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 102.27832 78.536484 
+L 102.27832 23.096484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 381.27832 78.536484 
+L 381.27832 23.096484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 102.27832 78.536484 
+L 381.27832 78.536484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 102.27832 23.096484 
+L 381.27832 23.096484 
+" style="fill: none; stroke: #262626; stroke-width: 2.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="130.17832" y="52.722797" transform="rotate(-0, 130.17832, 52.722797)">0</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="130.17832" y="75.392243" transform="rotate(-0, 130.17832, 75.392243)">(17)</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="185.97832" y="52.722797" transform="rotate(-0, 185.97832, 52.722797)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="185.97832" y="75.392243" transform="rotate(-0, 185.97832, 75.392243)">(261)</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="241.77832" y="52.722797" transform="rotate(-0, 241.77832, 52.722797)">2</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="241.77832" y="75.392243" transform="rotate(-0, 241.77832, 75.392243)">(304)</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="297.57832" y="52.722797" transform="rotate(-0, 297.57832, 52.722797)">3</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="297.57832" y="75.392243" transform="rotate(-0, 297.57832, 75.392243)">(25)</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #262626; font: 27px 'sans-serif'; text-anchor: middle" x="353.37832" y="52.722797" transform="rotate(-0, 353.37832, 52.722797)">4</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #262626; font: 18.7425px 'sans-serif'; text-anchor: middle" x="353.37832" y="75.392243" transform="rotate(-0, 353.37832, 75.392243)">(21)</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #262626; font: 22.5px 'sans-serif'; text-anchor: middle" x="241.77832" y="17.096484" transform="rotate(-0, 241.77832, 17.096484)">Cluster colormap index (count) for freesolv</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pad360150c1">
+   <rect x="102.27832" y="23.096484" width="279" height="55.44"/>
+  </clipPath>
+ </defs>
+</svg>

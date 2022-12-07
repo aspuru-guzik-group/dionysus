@@ -1,0 +1,1 @@
+{"name": "bace", "atom_set": ["*", "C", "N", "O", "F", "S", "Cl", "Br", "I"], "unique_smiles": true, "natom_range": [10, 97], "has_salts": false, "n_datapoints": 1513, "n_mols": 1513, "target_columns": ["Class"], "tasks": ["binary"], "doi": "MoleculeNet. https://doi.org/10.1039/C7SC02664A ", "smiles_column": "isosmiles", "task": null}
