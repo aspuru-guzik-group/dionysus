@@ -12,21 +12,21 @@ DIONYSUS requires the following:
 - Python >= 3.8
 - rdkit >= 2021.03.3
 - tensorflow == 2.9.0
-- tensorflow-probability
-- tf-models-official
-- graph_nets
-- sonnet
-- ngboost
-- gpflow
-- scikit-learn
-- scikit-multilearn
-- mordred
-- dask
-- umap-learn
-- cairosvg
-- pandas
-- seaborn
-- hdbscan
+- tensorflow-probability == 0.17.0
+- tf-models-official == 2.7.1
+- graph_nets == 1.1.0
+- sonnet == 2.0.0
+- ngboost == 0.3.12
+- gpflow == 2.5.2
+- scikit-learn == 1.0.2
+- scikit-multilearn == 0.2.0
+- mordred == 1.2.0
+- dask == 2022.6.1
+- umap-learn == 0.5.1
+- cairosvg == 2.5.2
+- pandas == 1.4.1
+- seaborn == 0.11.2
+- hdbscan == 0.8.27
 
 
 ## Datasets
