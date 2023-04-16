@@ -24,6 +24,11 @@ def get_isosmiles(mol: types.Mol) -> str:
 def get_mfp(mol: types.Mol) -> np.ndarray:
     return np.array(Chem.GetMorganFingerprintAsBitVect(mol, 3))
 
+def similarity_between_fps(fp1, fp2):
+    # quickly calculate tanimoito similarity between two bit vectors
+    sim = np.dot(fp1, fp2) / ( np.dot(fp1, fp1) + np.dot(fp2, fp2) - np.dot(fp1, fp2)) 
+    return sim
+
 
 def manysmi_to_fps(smi_arr: Sequence[str]) -> np.ndarray:
     return np.array([get_mfp(smi_to_mol(s)) for s in smi_arr])

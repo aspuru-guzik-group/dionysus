@@ -34,6 +34,8 @@ FILES_MAP = {'mol': '{}_mols.sdf.lzma',
              'model_weights': '{}_{}_model/weights',
              'model': '{}_{}_model',
              'viz': '{}',
+             'bo_traces': 'bo_traces_{}_{}.csv',
+             'bo_metrics': 'bo_metrics_{}_{}.csv'
              }
 
 

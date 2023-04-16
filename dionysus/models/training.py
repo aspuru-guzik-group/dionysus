@@ -56,12 +56,6 @@ def roc_auc_score(y_true, y_pred):
     return score
 
 
-
-    return score
-
-
-
-
 def get_batch_indices(n: int, batch_size: int) -> np.ndarray:
     """Gets shuffled constant size batch indices to train a model."""
     n_batches = n // batch_size
