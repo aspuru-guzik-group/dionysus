@@ -43,37 +43,60 @@ Datasets used are shown in `data/` directory. For new datasets, simply add it to
 
 ## Usage
 
-### Experiment 1: Supervised learning
-
-Scripts to run experiments are contained in `scripts/` directory. The structure will be changed in future versions.
+### Preprocessing
+Scripts to preprocess the datasets are in `scripts/` directory. Please run these prior to any of the below experiments. 
 
 ```bash
 cd scripts/
 
 # prepare molecules and analysis directory in data/{shortname}
+# canonicalize all smiles 
+# removes all invalid and duplicate smiles
+# removes all smiles with salts, ions or fragments
 python make_qsar_ready.py --dataset={shortname} 
 
 # create splits and features
+# create all features used (mfp, mordred, graphtuple, graphembed)
+# create the train/val/test splits used
 python make_features.py --dataset={shortname} 
+```
+
+### Experiment 1: Supervised learning
+
+Scripts to run experiments are contained in `scripts/` directory. 
+
+```bash
+cd scripts/
 
 # make all predictions for specified feature/model
 python make_predictions.py --dataset={shortname} --model={modelname} --feature={featurename} 
 
-# create evaluations for all available prediction data
+# create evaluations/figures for all available prediction data
 python make_evaluations.py --dataset={shortname}
 ```
 
 ### Experiment 2: Bayesian optimization
 
-Scripts are found in `bo/` directory. 
+Scripts are found in `bayes_opt/` directory.
 
-**More info coming**
+All results will be contained in `data/{shortname}/bayesian_optimization`.
+
+```bash
+cd bayes_opt/
+
+# run the bayesian optimization campaign
+python make_bo.py --dataset={shortname} --num_restarts=30 --budget=250 --goal=minimize --frac_init_design=0.05
+
+# create the traces and evaluation files
+# also outputs files with the fraction of hits calculated
+python make_bo_traces.py --dataset={shortname}
+```
 
 ### Experiment 3: Cluster splits and generalizability
 
 Similar to the first experiment, the scripts are found in `scripts/` directory. Once datasets are cleaned and features are made, you can make the cluster splits, and run for specified feature/model. In the manuscript, we only do this for mordred/GPs.
 
-All results will be contained in `data/generalization/{shortname}`.
+All results will be contained in `data/{shortname}/generalization`.
 
 ```bash
 cd scripts/
@@ -87,8 +110,6 @@ python make_generalization_predictions.py --dataset={shortname}
 # evaluate the predictions on each cluster split, and generate plots
 python make_generalization_evaluations.py --dataset={shortname}
 ```
-
-
 
 ## Proposed structure of repository (TODO)
 
