@@ -1,8 +1,6 @@
 # DIONYSUS: Calibration and generalizability of probabilistic models on low-data chemical datasets
 
-**Repository is under construction, and will be continually improved**
-
-This package is accompanied by this paper: [https://arxiv.org/abs/2212.01574](https://arxiv.org/abs/2212.01574).
+This package is accompanied by this paper: [Calibration and generalizability of probabilistic models on low-data chemical datasets with DIONYSUS]([https://arxiv.org/abs/2212.01574](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d2dd00146b)).
 
 Authors: Gary Tom, Riley J. Hickman, Aniket Zinzuwadia, Afshan Mohajeri, Benjamin Sanchez-Lengeling, Alan Aspuru-Guzik. (2022)
 
@@ -117,7 +115,7 @@ Structure of repository
 - `mol_data`: dataset preprocessor and loader. And be extended to other datasets and new features.
 - `dionysus`: model-agnostic evaluation script and library. Just requires predictions.
 - `dionysus_addons`: models used in the paper, here for reproducibility.
-
+- 
 
 ...
 
