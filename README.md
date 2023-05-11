@@ -1,6 +1,6 @@
 # DIONYSUS: Calibration and generalizability of probabilistic models on low-data chemical datasets
 
-This package is accompanied by this paper: [Calibration and generalizability of probabilistic models on low-data chemical datasets with DIONYSUS]([https://arxiv.org/abs/2212.01574](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d2dd00146b)).
+This package is accompanied by this paper: [Calibration and generalizability of probabilistic models on low-data chemical datasets with DIONYSUS](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d2dd00146b).
 
 Authors: Gary Tom, Riley J. Hickman, Aniket Zinzuwadia, Afshan Mohajeri, Benjamin Sanchez-Lengeling, Alan Aspuru-Guzik. (2022)
 
